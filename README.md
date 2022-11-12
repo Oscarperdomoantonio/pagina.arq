@@ -1,0 +1,2 @@
+# pagina.arq
+arquitectura
