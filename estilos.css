@@ -130,7 +130,7 @@ main .sobre-nosotros{
     flex-wrap: wrap;
 }
 
-.imagen-port{width: 50%;
+.imagen-port{width: 30%;
     margin-bottom:  10px;
     height: 200px;
     overflow: hidden;
